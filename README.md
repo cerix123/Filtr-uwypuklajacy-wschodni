@@ -1,1 +1,1 @@
-# Filtr-uwypuklaj-cy-wschodni
+# Filtr-uwypuklajacy-wschodni
