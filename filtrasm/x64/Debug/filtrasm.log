@@ -1,0 +1,4 @@
+﻿  Assembling filtrwasm.asm...
+     Trwa tworzenie biblioteki C:\Users\knamy\Desktop\Asembler\JA_filtr\x64\Debug\filtrasm.lib i obiektu C:\Users\knamy\Desktop\Asembler\JA_filtr\x64\Debug\filtrasm.exp
+filtrasm.exp : warning LNK4070: /OUT: dyrektywa filtrwasm.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego "C:\Users\knamy\Desktop\Asembler\JA_filtr\x64\Debug\filtrasm.dll"; dyrektywa została zignorowana
+  filtrasm.vcxproj -> C:\Users\knamy\Desktop\Asembler\JA_filtr\x64\Debug\filtrasm.dll

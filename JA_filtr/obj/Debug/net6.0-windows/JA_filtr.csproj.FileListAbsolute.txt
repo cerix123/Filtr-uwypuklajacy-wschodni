@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.Form1.resources
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.AssemblyInfo.cs
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\bin\Debug\net6.0-windows\JA_filtr.exe
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\bin\Debug\net6.0-windows\JA_filtr.deps.json
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\bin\Debug\net6.0-windows\JA_filtr.runtimeconfig.json
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\bin\Debug\net6.0-windows\JA_filtr.dll
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\bin\Debug\net6.0-windows\JA_filtr.pdb
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.dll
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\refint\JA_filtr.dll
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.pdb
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\JA_filtr.genruntimeconfig.cache
+C:\Users\Acer\Desktop\JA_projekt\JA_filtr\JA_filtr\obj\Debug\net6.0-windows\ref\JA_filtr.dll

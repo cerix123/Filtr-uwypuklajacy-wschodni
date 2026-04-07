@@ -1,0 +1,2 @@
+LIBRARY filtrwasm
+EXPORTS MyProc1
