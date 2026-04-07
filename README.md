@@ -1,0 +1,1 @@
+# Filtr-uwypuklaj-cy-wschodni
